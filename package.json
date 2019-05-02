@@ -1,0 +1,22 @@
+{
+  "name": "web-2.0",
+  "version": "1.0.0",
+  "description": "\"# web2\" \r \"# web2\" \r \"# web2\" \r \"# web2\" \r \"# web2\" \r \"# web2\" \r \"# web2\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhuvi1990/web2.git"
+  },
+  "author": "bhuvnesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhuvi1990/web2/issues"
+  },
+  "homepage": "https://github.com/bhuvi1990/web2#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
